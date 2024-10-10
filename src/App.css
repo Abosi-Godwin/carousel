@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper {
+    height: 100vh;
+    width: 100vw;
+    background: url("assets/SliderImages/bg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.swiper-slide {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+.swiper-slide > div {
+    margin-left: 1rem;
+}
+
+.swiper-pagination-bullet {
+    background: #fef3c7;
+    padding: .5rem;
+}
