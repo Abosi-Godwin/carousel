@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .swiper {
-    height: 100vh;
+    max-height: 100dvh;
     width: 100vw;
     background: url("assets/SliderImages/bg.jpg");
     background-position: center;
@@ -14,6 +14,7 @@
     align-items: center;
     justify-content: center;
     position: relative;
+    overflow: hidden;
 }
 .swiper-slide {
     width: 100vw;
@@ -28,5 +29,5 @@
 
 .swiper-pagination-bullet {
     background: #fef3c7;
-    padding: .5rem;
+    padding: 0.5rem;
 }

@@ -2,17 +2,17 @@ export const users = [
     {
         name: "James Wilson",
         proff: "Web developer",
-        img: ".././public/SliderImages/img-1.jpg"
+        img: "./SliderImages/img-1.jpg"
     },
     {
         name: "Sarah Johnson",
         proff: "graphic designer",
-        img: ".././public/SliderImages/img-2.jpg"
+        img: "./SliderImages/img-2.jpg"
     },
     {
         name: "Michael Brown",
         proff: "project manager",
-        img: "../../public/SliderImages/img-3.jpg"
+        img: "./SliderImages/img-3.jpg"
     },
     {
         name: "Emily Davis",
