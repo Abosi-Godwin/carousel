@@ -5,7 +5,7 @@
 .swiper {
     max-height: 100dvh;
     width: 100vw;
-    background: url("./public/SliderImages/bg.jpg");
+    background: url("../public/SliderImages/bg.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
