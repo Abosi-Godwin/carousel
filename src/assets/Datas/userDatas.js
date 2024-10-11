@@ -7,7 +7,7 @@ export const users = [
     {
         name: "Sarah Johnson",
         proff: "graphic designer",
-        img: "../src/assets/SliderImages/img-2.jpg"
+        img: "/src/assets/SliderImages/img-2.jpg"
     },
     {
         name: "Michael Brown",
