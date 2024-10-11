@@ -17,16 +17,16 @@ export const users = [
     {
         name: "Emily Davis",
         proff: "marketing specialist",
-        img: "../../public/SliderImages/img-4.jpg"
+        img: "./SliderImages/img-4.jpg"
     },
     {
         name: "Christopher Garcia",
         proff: "Data scientist",
-        img: "../../public/SliderImages/img-5.jpg"
+        img: "./SliderImages/img-5.jpg"
     },
     {
         name: "Richard Wilson",
         proff: "product designer",
-        img: "../../public/SliderImages/img-6.jpg"
+        img: "./SliderImages/img-6.jpg"
     }
 ];
