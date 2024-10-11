@@ -10,7 +10,7 @@ export const UserCard = ({ userDetails }) => {
                 <div className="w-40 h-40 border border-amber-100 rounded-full p-1">
                     <img
                         src={userDetails.img}
-                        alt="user's image"
+                        alt={userDetails.name}
                         className="w-full h-auto rounded-full border-2
                                 border-amber-100 p-1"
                     />
