@@ -2,7 +2,7 @@ export const users = [
     {
         name: "James Wilson",
         proff: "Web developer",
-        img: "src/assets/SliderImages/img-1.jpg"
+        img: "/assets/SliderImages/img-1.jpg"
     },
     {
         name: "Sarah Johnson",
