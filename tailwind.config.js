@@ -12,10 +12,7 @@ export default {
             },
             fontFamily:{
               montserrat: ['Montserrat', 'sans-serif']
-            },
-            backgroundImage: {
-                "bg-image": "url('./src/assets/SliderImages/bg.jpg')"
-            }
+            }, 
         }
     },
     plugins: []
